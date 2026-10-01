@@ -1,7 +1,0 @@
-streamlit
-fastapi
-httpx
-keras
-tensorflow
-numpy
-pydantic
