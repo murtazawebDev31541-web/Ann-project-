@@ -1,0 +1,7 @@
+streamlit
+fastapi
+httpx
+keras
+tensorflow-cpu
+numpy
+pydantic
